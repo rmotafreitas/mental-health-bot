@@ -1,0 +1,53 @@
+{
+  "other/general help": {
+    "keywords": ["support", "assistance", "guidance", "counseling"],
+    "message": "If you need other types of support or assistance, don't hesitate to ask for help from your loved ones, friends, or family. You can also contact your local mental health clinic or community health center for resources and referrals. Remember, there is no shame in seeking support when you need it.",
+    "feeling": "feeling down and with no hope"
+  },
+  "crisis": {
+    "keywords": ["crisis", "emergency", "urgent help", "need help now", "danger", "kill"],
+    "message": "If you are experiencing a crisis, it is important to seek help as soon as possible. You can call the National Suicide Prevention Lifeline at 963 524 660 for immediate assistance, or visit their website at https://www.sosvozamiga.org/ for more resources. You can also reach out to a trusted friend, family member, or mental health professional for support.",
+    "feeling": "feeling in crisis"
+  },
+  "suicide": {
+    "keywords": ["kill myself", "suicide", "commit suicide", "suicidal", "ending it all"],
+    "message": "If you are feeling suicidal, please know that you are not alone. You can call the Suicide Prevention Lifeline at 963 524 660 or visit their website https://www.sosvozamiga.org/. For emergencies, you can also call 911 or 112 if you are in Europe. Please don't hesitate to talk to someone, a psychologist, or someone you trust.",
+    "feeling": "having suicidal thoughts"
+  },
+  "depression": {
+    "keywords": [  "Sadness",  "Hopelessness",  "Helplessness",  "Worthlessness",  "Loss of interest",  "Fatigue",  "Insomnia or hypersomnia",  "Changes in appetite or weight",  "Difficulty concentrating",  "Suicidal thoughts or behaviors",  "Feelings of guilt or shame",  "Irritability or restlessness",  "Difficulty making decisions",  "Physical symptoms such as headaches or stomachaches"],
+    "message": "If you are experiencing symptoms of depression such as sadness, hopelessness, worthlessness, or loss of interest, know that you are not alone. Depression is a common mental health condition and there is help available. Some other common symptoms of depression include fatigue, changes in appetite or weight, difficulty concentrating, and insomnia or hypersomnia. You may also be experiencing physical symptoms such as headaches or stomachaches.\nIt's important to seek help if you are struggling with depression. You can start by talking to a loved one, friend, or family member you trust. They can provide support and may be able to help you find resources such as a therapist or support group. You can also reach out to your local mental health clinic or community health center for assistance.\nIf you are experiencing suicidal thoughts or behaviors, please seek help immediately. You can call the Suicide Prevention Lifeline at 213 544 545 or go to their website at suicidepreventionlifeline.org for support. You can also call 112 or go to your nearest emergency room if you are in immediate danger.\nRemember, seeking help for depression is a sign of strength, not weakness. Don't hesitate to reach out for support – there is hope and healing available.",
+    "feelings": "feeling depression"
+  },
+  "self-harm": {
+    "keywords": ["cutting", "self-injury", "self-harm", "hurt myself", "wrist-slitting"],
+    "message": "If you are experiencing self-harm, please reach out for help. You can contact the National Self-Harm Network at https://www.nshn.co.uk/. You can also seek help from a mental health professional or a trusted friend or family member.",
+    "feeling": "thinking in self injurying"
+  },
+  "eating disorders": {
+    "keywords": ["anorexia", "bulimia", "binge eating", "purging", "dieting"],
+    "message": "Eating disorders can be incredibly challenging to cope with, but there is help available. You can contact the National Eating Disorders Association at https://www.nationaleatingdisorders.org/. You can also seek help from a medical professional or a trusted friend or family member.",
+    "feeling": "habing eating disorders"
+  },
+  "substance abuse": {
+    "keywords": ["alcoholism", "drug addiction", "substance abuse", "getting high", "overdosing"],
+    "message": "If you or someone you know is struggling with substance abuse, please seek help. You can contact the Substance Abuse and Mental Health Services Administration at https://www.samhsa.gov/ for resources and support. You can also seek help from a medical professional or a trusted friend or family member.",
+    "feeling": "substance ausive"
+  },
+  "sexual abuse": {
+    "keywords": ["sexual assault", "rape", "molestation", "harassment", "abuse"],
+    "message": "If you have experienced sexual abuse, please know that it is not your fault and that you are not alone. You can contact the National Sexual Assault Hotline at 800-656-HOPE (4673) or visit their website https://www.rainn.org/. You can also seek help from a medical professional or a trusted friend or family member.",
+    "feeling": "sexual abused" 
+  },
+  "domestic violence": {
+    "keywords": ["domestic abuse", "partner violence", "spousal abuse", "abusive relationship", "violence at home"],
+    "message": "If you are experiencing domestic violence, please know that help is available. You can contact the National Domestic Violence Hotline at 800-799-SAFE (7233) or visit their website https://www.thehotline.org/. You can also seek help from a medical professional or a trusted friend or family member.",
+    "feeling": "suffering domestic abuse"
+  },
+  "mental health crisis": {
+    "keywords": ["mental breakdown", "panic attack", "anxiety attack", "psychotic episode", "nervous breakdown"],
+    "message": "If you are experiencing a mental health crisis, please seek help immediately. You can contact the National Alliance on Mental Illness at https://www.nami.org/. You can also seek help from a medical professional or a trusted friend or family member.",
+    "feeling": "having a mental health crisis"
+  }
+}
+
